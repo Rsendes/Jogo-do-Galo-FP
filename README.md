@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-FP
-First project for Foundations of Programming  20/21 
+First project for Foundations of Programming  2020/2021 
